@@ -1,4 +1,4 @@
-# CPE / Collegiate Programming Examination 大學能力程式檢定
+#Collegiate Programming Examination 大學能力程式檢定
 ```
 Hello!
 ```
