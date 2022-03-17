@@ -9,7 +9,7 @@ int main(){
 	// 建立鍵盤表
 	while(cin.get(c)){
 		c=tolower(c);			// 大寫轉小寫
-		char *p=strchr(list,c); // 指標
+		char *p=strchr(list,c);	// 指標
 		if(p)cout<<*(p-2);		// 指定位置 -2 格
 		else cout<<c;
 	}
